@@ -5,7 +5,7 @@ void main() {
   late CacheManager cacheManager;
 
   setUp(() {
-    cacheManager = CacheManager.instance;
+    cacheManager = CacheManager();
   });
 
   tearDown(() async {

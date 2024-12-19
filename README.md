@@ -23,7 +23,7 @@ dependencies:
 
 ```dart
 // Get the singleton instance
-final cacheManager = CacheManager.instance;
+final cacheManager = CacheManager();
 
 // Write data to cache
 await cacheManager.write(

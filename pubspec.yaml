@@ -1,6 +1,6 @@
 name: simple_cache_manager
-description: "A simple way to handle cache in Dart."
-version: 0.0.1
+description: "A simple cache manager for Dart. It stores the data into json and provides methods to write, read, delete and clear the cache."
+version: 0.0.3
 repository: https://github.com/errichamonda/simple_cache_manager
 
 environment:
