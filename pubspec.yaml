@@ -1,0 +1,20 @@
+name: simple_cache_manager
+description: "A simple way to handle cache in Dart."
+version: 0.0.1
+repository: https://github.com/errichamonda/simple_cache_manager
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  path: ^1.9.0
+  safe_local_storage: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
